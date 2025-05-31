@@ -1,8 +1,10 @@
+package AgendaTelefonica;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Agenda {
+public class Main {
     public static void main(String[] args) {
         MetodosMenus menu = new MetodosMenus();
         Scanner sc = new Scanner(System.in);

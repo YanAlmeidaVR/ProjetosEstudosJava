@@ -1,3 +1,5 @@
+package AgendaTelefonica;
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -14,7 +16,7 @@ public class MetodosMenus {
     public void ExibirMenu() {
         Separador();
         System.out.println("Agenda Telefônica:");
-        System.out.println("[1] Adicionar Contato");
+        System.out.println("[1] Adicionar Contatos");
         System.out.println("[2] Lista de Contatos");
         System.out.println("[3] Procurar Contatos");
         System.out.println("[4] Excluir Contatos");
