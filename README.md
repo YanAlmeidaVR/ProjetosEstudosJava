@@ -1,5 +1,5 @@
-Sistemas simples para aprender e estudar a fundo POO do Java.
+Projetos para praticar POO
 Três Sistemas:
-Sistemas de Produtos
-Sistemas de Biblioteca
-Sistemas de 
+Sistemas de Produtos e
+Sistemas de Biblioteca e
+Agenda Telefônica
