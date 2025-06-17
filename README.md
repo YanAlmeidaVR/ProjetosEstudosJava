@@ -1,4 +1,4 @@
-Projetos para praticar POO
+Projetos para praticar POO em Java
 
 Três Sistemas:
 Sistemas de Produtos, 
